@@ -1,5 +1,4 @@
-# 2021-Spring-Machine-Learning
-
+# 2021-Spring-Machine-Learnin
 ## 簡介
 
 * 課程名稱：[機器學習](https://coursemap.aca.ntu.edu.tw/course_map_all/course.php?code=921+U2620)
